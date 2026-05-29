@@ -1,4 +1,4 @@
 # oss-practice
 
 ## Team
-팀 이름 : 팀끼끼끼
+팀 이름 : 팀끼끼
